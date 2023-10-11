@@ -1,0 +1,11 @@
+* {
+  color: blue;
+}
+
+nav a.current {
+  /* Set text decoration, transformation, and underline properties */
+  /* add a wavy underline*/
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-transform: uppercase;
+}
